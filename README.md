@@ -1,2 +1,8 @@
-# donate-mobile-app
-Flutter Dart app to configure button and donations.
+# donate_flutter_app
+
+A new flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](http://flutter.io/).
